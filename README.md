@@ -1,3 +1,3 @@
 # DIO - Aula Git e GitHub
 
-Aula de Git e Github da DIO
+Aula do curso de Git e Github da DIO
